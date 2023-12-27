@@ -8,7 +8,7 @@ const items =
     ;
 
 
-const Carousel = () => (
+const CarouselBanner = () => (
     <AliceCarousel
         animationType="fadeout"
         autoPlay
@@ -23,4 +23,4 @@ const Carousel = () => (
 
 
 
-export default Carousel;
+export default CarouselBanner;

@@ -1,13 +1,12 @@
 import './App.css';
 import Homepage from './customer/Pages/Homepage';
 import Navigation from './customer/components/Navigation';
-import HomeSectionCard from './customer/components/HomeSectionCard';
+import HomeSectionCarousel from './customer/components/HomeSectionCarousel';
 function App() {
   return (
     <>
       <Navigation />
       <Homepage />
-      <HomeSectionCard />
     </>
 
   );
