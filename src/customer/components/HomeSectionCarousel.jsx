@@ -19,7 +19,7 @@ const HomeSectionCarousel = () => {
     const slideNext = () => setActiveIndex(activeIndex + 1);
 
     const syncActiveIndex = ({ item }) => setActiveIndex(item);
-    const items = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1].map((item, index) => <HomeSectionCard key={index} />);
+    const items = [1, 1, 1, 1, 1, 1, 1, 1, 1].map((item, index) => <HomeSectionCard key={index} />);
 
     return (
         <div className="relative px-4 lg:px-6">
@@ -68,5 +68,4 @@ const HomeSectionCarousel = () => {
         </div>
     );
 };
-
 export default HomeSectionCarousel;
