@@ -27,7 +27,6 @@ const HomeSectionCarousel = () => {
                 <AliceCarousel
                     items={items}
                     disableButtonsControls
-                    infinite
                     disableDotsControls
                     onSlideChange={syncActiveIndex}
                     responsive={responsive}
@@ -49,7 +48,7 @@ const HomeSectionCarousel = () => {
                     <KeyboardArrowLeftIcon sx={{ transform: 'rotate(90deg)', color: 'black' }} />
                 </Button>
                 }
-                <Button
+                {activeIndex !== 0 && <Button
                     onClick={slidePrev}
                     variant="contained"
                     className='z-50 bg-white'
@@ -63,7 +62,7 @@ const HomeSectionCarousel = () => {
                     aria-label="next"
                 >
                     <KeyboardArrowLeftIcon sx={{ transform: 'rotate(90deg)', color: 'black' }} />
-                </Button>
+                </Button>}
             </div>
         </div>
     );
