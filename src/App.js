@@ -1,12 +1,13 @@
 import './App.css';
 import Homepage from './customer/Pages/Homepage';
 import Navigation from './customer/components/Navigation';
-import HomeSectionCarousel from './customer/components/HomeSectionCarousel';
+import Footer from './customer/components/Footer/Footer';
 function App() {
   return (
     <>
       <Navigation />
       <Homepage />
+      <Footer />
     </>
 
   );
