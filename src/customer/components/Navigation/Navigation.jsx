@@ -235,7 +235,7 @@ export default function Example() {
                                     </Tab.Panels>
                                 </Tab.Group>
 
-                                <div className="space-y-6 border-t border-gray-200 px-4 py-6 z-50">
+                                <div className="space-y-6 border-t border-gray-200 px-4 py-6">
                                     {navigation.pages.map((page) => (
                                         <div key={page.name} className="flow-root">
                                             <a href={page.href} className="-m-2 block p-2 font-medium text-gray-900">
@@ -264,7 +264,7 @@ export default function Example() {
                 </Dialog>
             </Transition.Root>
 
-            <header className="relative bg-white">
+            <header className="relative bg-white z-50">
 
                 <nav aria-label="Top" className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                     <div className="border-b border-gray-200">

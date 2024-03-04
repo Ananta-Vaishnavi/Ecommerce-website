@@ -1,0 +1,59 @@
+[33mcommit 647464d4fa9923016c3cb84a9ee8d961e325ffc8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Ananta Vaishnavi Movva <movvavaishnavi2503@gmail.com>
+Date:   Sun Mar 3 16:51:48 2024 +0530
+
+    footer implemented
+
+[33mcommit 05ccb8fd19d31bd1c141df08785bd08f40144f93[m
+Author: Ananta Vaishnavi Movva <movvavaishnavi2503@gmail.com>
+Date:   Sun Mar 3 15:10:27 2024 +0530
+
+    carousel implemented
+
+[33mcommit 9c10fc0ecd915796bf4f440253a63282ac1738b3[m
+Author: Ananta Vaishnavi Movva <movvavaishnavi2503@gmail.com>
+Date:   Sat Mar 2 11:06:05 2024 +0530
+
+    move forward fix
+
+[33mcommit 133d82c96403d151e069d0e87ce427d209a2c1ed[m
+Author: Ananta Vaishnavi Movva <movvavaishnavi2503@gmail.com>
+Date:   Sat Mar 2 10:53:31 2024 +0530
+
+    save
+
+[33mcommit f6640bd95f9e72de5a167558d198a7b3a633b890[m
+Author: Ananta Vaishnavi Movva <movvavaishnavi2503@gmail.com>
+Date:   Wed Feb 21 14:03:26 2024 +0530
+
+    added data
+
+[33mcommit 2b66e73804b2496eb570a1f097b9ad4d668e0504[m
+Author: Ananta Vaishnavi Movva <movvavaishnavi2503@gmail.com>
+Date:   Tue Feb 20 19:49:24 2024 +0530
+
+    fixed errors
+
+[33mcommit c3a5bcbfb03efd17b4afd08a2385049c0a051183[m
+Author: Ananta Vaishnavi Movva <movvavaishnavi2503@gmail.com>
+Date:   Fri Feb 16 13:42:09 2024 +0530
+
+    created homepage
+
+[33mcommit ec524b9ce84bfe053f3fdb06bcddf25fec4e0142[m
+Author: Ananta Vaishnavi Movva <movvavaishnavi2503@gmail.com>
+Date:   Wed Dec 27 22:43:27 2023 +0530
+
+    Carousel sliding implemented
+
+[33mcommit 625e3dac63410a2f2b4b44b2ce2d7e7cf87a9815[m
+Author: Ananta Vaishnavi Movva <movvavaishnavi2503@gmail.com>
+Date:   Mon Dec 25 23:06:25 2023 +0530
+
+    added carousel
+
+[33mcommit 08b9f00c0b1c2db017c536406fddfe14febfd284[m
+Author: Ananta Vaishnavi Movva <movvavaishnavi2503@gmail.com>
+Date:   Mon Dec 25 21:32:53 2023 +0530
+
+    Added header and carousel
